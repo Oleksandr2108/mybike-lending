@@ -1,7 +1,3 @@
-<!-- # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/) -->
 # MYBIKE Landing Page
 
 Welcome to the MYBIKE landing page repository!
@@ -48,7 +44,7 @@ Feel free to customize the content, style, and structure of the landing page to 
 
 ## Demo
 
-Check out the live demo of the MYBIKE landing page [here](https://Oleksandr2108.github.io/layout_landing-page/).
+Check out the live demo of the MYBIKE landing page [here](https://Oleksandr2108.github.io/mybike-lending/).
 
 ## Contributing
 
